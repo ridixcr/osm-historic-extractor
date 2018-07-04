@@ -1,0 +1,30 @@
+{
+    "osm": {
+        "version": "0.6",
+        "generator": "CGImap 0.6.0 (12695 thorn-03.openstreetmap.org)",
+        "copyright": "OpenStreetMap and contributors",
+        "attribution": "http://www.openstreetmap.org/copyright",
+        "license": "http://opendatacommons.org/licenses/odbl/1-0/",
+        "node": {
+            "id": "1764112329",
+            "visible": "true",
+            "version": "1",
+            "changeset": "11688618",
+            "timestamp": "2012-05-24T11:02:43Z",
+            "user": "mambwe evans",
+            "uid": "688069",
+            "lat": "-15.3943471",
+            "lon": "28.3290367",
+            "tag": [
+                {
+                    "k": "power",
+                    "v": "pole"
+                },
+                {
+                    "k": "ref",
+                    "v": "STREET LIGHT"
+                }
+            ]
+        }
+    }
+}

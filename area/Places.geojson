@@ -1,0 +1,709 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2018-05-02T15:19:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/32520143",
+        "alt_name": "Halab",
+        "is_in": "Mount Simeon, Aleppo, Syria سوريا",
+        "is_in:country": "Syria",
+        "is_in:country_code": "SY",
+        "name": "حلب",
+        "name:ar": "حلب",
+        "name:arc": "ܚܠܒ",
+        "name:ca": "Alep",
+        "name:ckb": "حەلەب",
+        "name:cs": "Aleppo",
+        "name:da": "Aleppo",
+        "name:de": "Aleppo",
+        "name:el": "Χαλέπι",
+        "name:en": "Aleppo",
+        "name:es": "Alepo",
+        "name:fi": "Aleppo",
+        "name:fr": "Alep",
+        "name:he": "חאלב",
+        "name:hi": "हलब",
+        "name:hr": "Alep",
+        "name:hy": "Հալեպ",
+        "name:ja": "アレッポ",
+        "name:ka": "ალეპო",
+        "name:kn": "ಹಲಬ",
+        "name:ko": "알레포",
+        "name:ku": "Heleb",
+        "name:lt": "Alepas",
+        "name:ml": "ആലെപ്പോ",
+        "name:mr": "हलब",
+        "name:oc": "Alèp",
+        "name:ru": "Алеппо",
+        "name:sv": "Aleppo",
+        "name:tr": "Halep",
+        "name:tt": "Хәлеб",
+        "name:uk": "Халеб",
+        "name:zh": "阿勒颇",
+        "place": "city",
+        "population": "2301000",
+        "source:name:oc": "Lo Congrès",
+        "wikidata": "Q41183",
+        "wikipedia": "en:Aleppo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1637253,
+          36.19924
+        ]
+      },
+      "id": "node/32520143"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/130187624",
+        "alt_name": "القامشلي",
+        "alt_name:en": "Qamishlo",
+        "is_in": "سوريا",
+        "is_in:country": "Syria",
+        "is_in:country_code": "SY",
+        "name": "القامشلي",
+        "name:ar": "القامشلي",
+        "name:ca": "AlQamixli",
+        "name:ckb": "قامیشلۆ",
+        "name:de": "Qamishli",
+        "name:en": "Al-Qamishli",
+        "name:es": "Qamishli",
+        "name:fr": "El Qâmichli",
+        "name:hy": "Էլ-Քամիշլի",
+        "name:ja": "カーミシュリー",
+        "name:ko": "카미실리",
+        "name:ku": "Qamişlo",
+        "name:lt": "Kamišlis",
+        "name:pl": "Al-Kamiszli",
+        "name:ru": "Камишлия",
+        "name:tr": "Kamışlı",
+        "name:uk": "Камишли",
+        "name:zh": "卡米什利",
+        "place": "city",
+        "population": "232258",
+        "wikidata": "Q212757",
+        "wikipedia": "ar:القامشلي"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.2328836,
+          37.0402529
+        ]
+      },
+      "id": "node/130187624"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/192288043",
+        "int_name": "al-Lāḏikiyya",
+        "is_in": "Latakia, Latakia, Syria",
+        "is_in:country": "Syria",
+        "is_in:country_code": "SY",
+        "name": "اللاذقية",
+        "name:ar": "اللاذقية",
+        "name:de": "Latakia",
+        "name:el": "Λαοδικεία",
+        "name:en": "Latakia",
+        "name:es": "Latakia",
+        "name:fa": "لاذقیه",
+        "name:fi": "Lattakia",
+        "name:fr": "Lattaquié",
+        "name:he": "לטקיה",
+        "name:hr": "Latakija",
+        "name:it": "Laodicea",
+        "name:ja": "ラタキア",
+        "name:ko": "라타키아",
+        "name:ku": "Laziqiye",
+        "name:la": "Laodicea",
+        "name:lt": "Latakija",
+        "name:pt": "Lataquia",
+        "name:ru": "Латакия",
+        "name:tr": "Lazkiye",
+        "name:uk": "Латакія",
+        "name:zh": "拉塔基亚",
+        "old_name": "Laodicea",
+        "place": "city",
+        "population": "700000",
+        "source:population": "French Wikipedia",
+        "wikidata": "Q200030",
+        "wikipedia": "en:Latakia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.7781044,
+          35.5200185
+        ]
+      },
+      "id": "node/192288043"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/192296363",
+        "is_in": "Tartus, Tartus, Syria",
+        "is_in:country": "Syria",
+        "is_in:country_code": "SY",
+        "name": "طرطوس",
+        "name:de": "Tartus",
+        "name:en": "Tartus",
+        "name:es": "Tartus",
+        "name:fr": "Tartoûs",
+        "name:he": "טרטוס",
+        "name:ja": "タルトゥース",
+        "name:ko": "타르투스",
+        "name:ku": "Tartûs",
+        "name:lt": "Tartusas",
+        "name:ru": "Тартус",
+        "name:uk": "Тартус",
+        "name:zh": "塔尔图斯",
+        "old_name": "Antaradus;Tortosa",
+        "place": "city",
+        "population": "97557",
+        "wikidata": "Q174916",
+        "wikipedia": "en:Tartus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.8851671,
+          34.8936225
+        ]
+      },
+      "id": "node/192296363"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/248154948",
+        "alt_name": "Münbiç",
+        "int_name": "Manbij",
+        "is_in": "Syria, الجمهورية العربية السورية ، سوريا",
+        "name": "منبج",
+        "name:ar": "منبج",
+        "name:ar1": "منبج",
+        "name:cs": "Manbidž",
+        "name:de": "Manbidsch",
+        "name:el": "Μεμβίτζ",
+        "name:en": "Manbij",
+        "name:fr": "Manbij",
+        "name:hy": "Մանբիջ",
+        "name:ku": "Minbic",
+        "name:ru": "Манбидж",
+        "name:tr": "Menbiç",
+        "name:zh": "曼比季",
+        "old_name": "Mabbog;Hiérapolis Bambyce",
+        "place": "city",
+        "population": "74575",
+        "source:population": "French Wikipedia",
+        "wikidata": "Q1146939",
+        "wikipedia": "en:Manbij"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.9559288,
+          36.5269242
+        ]
+      },
+      "id": "node/248154948"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/270488512",
+        "alt_name": "إدلب",
+        "alt_name:he": "אידליב",
+        "is_in": "Syria,Idlib",
+        "name": "إدلب",
+        "name:ar": "إدلب",
+        "name:de": "Idlib",
+        "name:en": "Idlib",
+        "name:fr": "Idlib",
+        "name:he": "אדלב",
+        "name:hr": "Idlib",
+        "name:ku": "Îdlîb",
+        "name:lt": "Idlibas",
+        "name:ru": "Идлиб",
+        "name:tr": "İdlib",
+        "name:zh": "伊德利卜",
+        "place": "city",
+        "population": "157000",
+        "wikidata": "Q504657",
+        "wikipedia": "en:Idlib"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.6353017,
+          35.9278306
+        ]
+      },
+      "id": "node/270488512"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/270791118",
+        "alt_name": "يبرود",
+        "int_name": "Gebru, Jebru, Jebrud, Yabroud, Yabroûd, Yabrūd",
+        "is_in": "Syria, الجمهورية العربية السورية ، سوريا",
+        "name": "يبرود",
+        "name:ar": "يبرود",
+        "name:ar1": "يبرود",
+        "name:de": "Yabrud",
+        "name:en": "Yabrud",
+        "name:fr": "Yabrud",
+        "name:he": "יברוד",
+        "name:lt": "Jabrudas",
+        "name:ru": "Ябруд",
+        "place": "town",
+        "wikidata": "Q172251",
+        "wikipedia": "en:Yabroud"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.6609885,
+          33.9665336
+        ]
+      },
+      "id": "node/270791118"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/567044303",
+        "alt_name": "دوما",
+        "int_name": "Douma, Dūmā",
+        "is_in": "Syria, الجمهورية العربية السورية ، سوريا",
+        "name": "دوما",
+        "name:ar": "دوما",
+        "name:ar1": "دوما",
+        "name:de": "Duma",
+        "name:en": "Duma",
+        "name:fr": "Duma",
+        "name:he": "דומא",
+        "name:lt": "Duma",
+        "name:ru": "Дума",
+        "name:uk": "Дума",
+        "place": "town",
+        "population": "117679",
+        "wikidata": "Q403446",
+        "wikipedia": "en:Duma, Syria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.4012933,
+          33.5696629
+        ]
+      },
+      "id": "node/567044303"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/571192785",
+        "alt_name": "جسر الشغور",
+        "alt_name:en": "Jisr al-Shughour",
+        "alt_name:fr": "Jisr Al-Choghour",
+        "int_name": "Djisr el Choghour, Jisr Al-Shughour, Jisr ash Shaghur, Jisr ash Shāghūr, Jisr ech Chorhour, Jisr esh Shaur, Jisr esh Shughur, Jisr esh Shughūr, Jisr-esh-Shughour, Jisr ash Shughūr, Jisr al-Shoughour",
+        "is_in": "Syria, الجمهورية العربية السورية ، سوريا",
+        "name": "جسر الشغور",
+        "name:ar": "جسر الشغور",
+        "name:ar1": "جسر الشغور",
+        "name:cs": "Džisr aš-Šugúr",
+        "name:de": "Jisr ash-Shugur",
+        "name:en": "Jisr ash-Shugur",
+        "name:fr": "Jisr al-Choughour",
+        "name:he": "ג'סר א-שורור",
+        "name:ku": "Cîsr eş-Şugur",
+        "name:lt": "Džisr aš Šuguras",
+        "name:pl": "Dżisr asz-Szughur",
+        "name:ru": "Джиср-эш-Шугур",
+        "name:tr": "Cisr eş-Şuğur",
+        "name:zh": "吉斯爾舒古爾",
+        "place": "city",
+        "population": "44322",
+        "wikidata": "Q798765",
+        "wikipedia": "en:Jisr al-Shughur"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.3174963,
+          35.8155686
+        ]
+      },
+      "id": "node/571192785"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/571225333",
+        "alt_name:ar": "العكيرشي",
+        "alt_name:en": "al-Raqqah",
+        "alt_name:fr": "Er Raqqah",
+        "capital": "4",
+        "int_name": "Raqqa",
+        "is_in": "Syria, الجمهورية العربية السورية ، سوريا",
+        "name": "الرقة",
+        "name:ar": "الرقة",
+        "name:de": "Raqqa",
+        "name:en": "Ar Raqqah",
+        "name:fi": "Rakka",
+        "name:fr": "Raqqa",
+        "name:ku": "Reqa",
+        "name:pl": "Ar-Rakka",
+        "name:ru": "Эр-Ракка",
+        "name:tr": "Rakka",
+        "name:zh": "拉卡",
+        "old_name": "Nicephorium",
+        "place": "city",
+        "population": "200000",
+        "source:name:fr": "Le Monde",
+        "wikidata": "Q283368",
+        "wikipedia": "en:Raqqa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.0089212,
+          35.949678
+        ]
+      },
+      "id": "node/571225333"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/572549095",
+        "alt_name:uk": "Хомс",
+        "is_in": "Syria سوريا",
+        "is_in:continent": "Asia",
+        "is_in:country": "Syria سوريا",
+        "is_in:country_code": "SY",
+        "name": "حمص",
+        "name:ar": "حمص",
+        "name:cs": "Homs",
+        "name:da": "Homs",
+        "name:de": "Homs",
+        "name:en": "Homs",
+        "name:es": "Homs",
+        "name:fr": "Homs",
+        "name:he": "חומס",
+        "name:ku": "Hims",
+        "name:lt": "Homsas",
+        "name:ru": "Хомс",
+        "name:sv": "Homs",
+        "name:tr": "Humus",
+        "name:uk": "Хімс",
+        "name:zh": "霍姆斯",
+        "old_name": "Emesa",
+        "old_name:el": "Έμεσα",
+        "old_name:fr": "Émèse",
+        "old_name:la": "Emesa",
+        "place": "city",
+        "population": "720000",
+        "wikidata": "Q131301",
+        "wikipedia": "en:Homs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.7166667,
+          34.7333334
+        ]
+      },
+      "id": "node/572549095"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/572557865",
+        "alt_name": "حماه",
+        "int_name": "Epiphaneia, Epiphania, Hama, Hamao, Hamath, Khama, hmat, Хама, حماة, Ḩamāh",
+        "is_in": "Syria, الجمهورية العربية السورية ، سوريا",
+        "name": "حماة",
+        "name:am": "ሐማት",
+        "name:ar": "حماة",
+        "name:arc": "ܚܡܬ",
+        "name:cs": "Hamá",
+        "name:de": "Hama",
+        "name:en": "Hama",
+        "name:fr": "Hama",
+        "name:he": "חמאת",
+        "name:it": "Hama",
+        "name:ja": "ハマー",
+        "name:ko": "하마",
+        "name:ku": "Hema",
+        "name:lt": "Hama",
+        "name:ru": "Хама",
+        "name:uk": "Хама",
+        "name:zh": "哈馬",
+        "place": "city",
+        "population": "696863",
+        "wikidata": "Q173545",
+        "wikipedia": "en:Hama"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.7496276,
+          35.1343368
+        ]
+      },
+      "id": "node/572557865"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/573457897",
+        "alt_name": "دير الزور;Deyrazor;Deir Ezzor;Deir Al-Zor;Dayr Al-Zawr;Der Ezzor;Dair az-Zaur;Deyr-i Zor;Deyru'z-Zur;Der Zor;Der ez-Zor",
+        "alt_name:de": "Deir ez-Zor",
+        "alt_name:en": "Dayr az-Zawr",
+        "alt_name:fr": "Deir Ez-Zar;Deir-Ezzor",
+        "int_name": "Azaura, Dayr al-Zor, Dayr az Zur, Dayr az Zūr, Deir Zzor, Deir ez Zoar, Deir ez Zor, Deïr ez Zor, Dayr az Zawr",
+        "is_in": "Syria, Deir ez-Zor سوريا دير الزور",
+        "is_in:continent": "Asia",
+        "is_in:country": "Syria",
+        "is_in:country_code": "SY",
+        "is_in:state": "Deir ez-Zor",
+        "name": "دير الزور",
+        "name:ar": "دير الزور",
+        "name:ar1": "دير الزور",
+        "name:de": "Deir ez-Zor",
+        "name:en": "Deir ez-Zor",
+        "name:es": "Deir ez-Zor",
+        "name:fr": "Deïr ez Zôr",
+        "name:he": "דיר א-זור",
+        "name:hy": "Դեր Զոր",
+        "name:ja": "デリゾール",
+        "name:ko": "데이르에즈조르",
+        "name:ku": "Dêrazor",
+        "name:lt": "Deir ez Zoras",
+        "name:ru": "Дейр-эз-Зор",
+        "name:tr": "Deyrizor",
+        "name:zh": "代尔祖尔",
+        "place": "city",
+        "population": "283434",
+        "wikidata": "Q239097",
+        "wikipedia": "en:Deir ez-Zor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.1499999,
+          35.3333335
+        ]
+      },
+      "id": "node/573457897"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/573516235",
+        "alt_name": "Daraa",
+        "int_name": "Dara'a",
+        "is_in": "Syria, الجمهورية العربية السورية ، سوريا",
+        "is_in:continent": "Asia",
+        "is_in:country": "Syria سوريا",
+        "name": "درعا",
+        "name:ar": "درعا",
+        "name:arc": "ܕܪܥܐ",
+        "name:de": "Daraa",
+        "name:el": "Νταράα",
+        "name:en": "Daraa",
+        "name:es": "Daraa",
+        "name:et": "Darʿā",
+        "name:fr": "Deraa",
+        "name:he": "דרעא",
+        "name:ja": "ダルアー",
+        "name:ku": "Der’a",
+        "name:lt": "Dara",
+        "name:nl": "Daraa",
+        "name:pl": "Dara",
+        "name:ru": "Даръа",
+        "name:uk": "Дара",
+        "name:zh": "德拉",
+        "place": "city",
+        "wikidata": "Q238217",
+        "wikipedia": "ar:درعا"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.1109696,
+          32.6224342
+        ]
+      },
+      "id": "node/573516235"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/573532935",
+        "alt_name": "القصير",
+        "alt_name:fr": "Qusair",
+        "int_name": "Al-Kuseir, El Qoussair, El Quseir, Kouseir, Koussaie, Kousseir, Kuseir, Qoussair, Qoussaïr, Qusayr, Qusir, Quşayr, Al Quşayr",
+        "is_in": "Syria, الجمهورية العربية السورية ، سوريا",
+        "name": "القصير",
+        "name:ar": "القصير",
+        "name:de": "Al Qusayr",
+        "name:en": "Al Qusayr",
+        "name:fr": "Qoussair",
+        "name:nl": "Al-Qusayr",
+        "name:pl": "Al-Kusajr",
+        "name:ru": "Эль-Кусайр",
+        "name:uk": "Аль-Кусейр",
+        "place": "town",
+        "population": "44395",
+        "wikidata": "Q195410",
+        "wikipedia": "en:Al-Qusayr, Syria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.576892,
+          34.5107184
+        ]
+      },
+      "id": "node/573532935"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/573543011",
+        "alt_name": "تدمر",
+        "historic": "yes",
+        "int_name": "Palmira, Palmyre, Tadmor, Tadmur, Tamar, Tedmor, Palmyra",
+        "is_in": "Syria, الجمهورية العربية السورية ، سوريا",
+        "name": "تدمر",
+        "name:ar": "تدمر",
+        "name:ar1": "تدمر",
+        "name:de": "Palmyra",
+        "name:en": "Palmyra",
+        "name:es": "Palmira",
+        "name:fr": "Palmyre",
+        "name:lt": "Palmyra",
+        "name:pl": "Palmyra",
+        "name:ru": "Пальмира",
+        "name:uk": "Пальміра",
+        "place": "town",
+        "wikidata": "Q5747",
+        "wikipedia": "fr:Palmyre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.2809746,
+          34.5560155
+        ]
+      },
+      "id": "node/573543011"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3586518721",
+        "alt_name": "Kobanê",
+        "alt_name:de": "Kobanê",
+        "alt_name:en": "Kobanê",
+        "alt_name:fr": "Kobané",
+        "alt_name:ku": "Kobanê",
+        "alt_name:ru": "Кобани",
+        "capital": "8",
+        "int_name": "Ayn al-Arab",
+        "is_in": "Syria, الجمهورية العربية السورية ، سوريا",
+        "name": "Kobanî",
+        "name:ar": "عين العرب",
+        "name:ckb": "کۆبانی",
+        "name:de": "Ain al-Arab",
+        "name:en": "Kobane",
+        "name:es": "Ayn al-Arab",
+        "name:fr": "Kobané",
+        "name:he": "קובאני",
+        "name:ku": "Kobanî",
+        "name:ru": "Айн-эль-Араб",
+        "name:zh": "艾因阿拉伯/科巴尼",
+        "place": "town",
+        "population": "44000",
+        "wikidata": "Q126415",
+        "wikipedia": "ar:عين العرب"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.3552285,
+          36.8867377
+        ]
+      },
+      "id": "node/3586518721"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3691998846",
+        "int_name": "Afrin",
+        "name": "عفرين",
+        "name:ar": "عفرين",
+        "name:ckb": "عەفرین",
+        "name:de": "Afrin",
+        "name:en": "Afrin",
+        "name:fr": "Afrin",
+        "name:it": "Afrin",
+        "name:kbr": "Afrîn",
+        "name:ku": "Efrîn",
+        "name:ru": "Африн",
+        "name:tr": "Afrin",
+        "name:zh": "阿夫林",
+        "place": "town",
+        "population": "50000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8668664,
+          36.5100415
+        ]
+      },
+      "id": "node/3691998846"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3871242686",
+        "alt_name:ku": "El-Bab",
+        "name": "الباب",
+        "name:ar": "الباب",
+        "name:de": "al-Bab",
+        "name:en": "Al-Bab",
+        "name:es": "Al-Bab",
+        "name:fr": "Al-Bab",
+        "name:ku": "Bab",
+        "name:ru": "Эль-Баб",
+        "name:tr": "El-Bab",
+        "name:zh": "巴卜",
+        "place": "town"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.5143955,
+          36.3711098
+        ]
+      },
+      "id": "node/3871242686"
+    }
+  ]
+}
